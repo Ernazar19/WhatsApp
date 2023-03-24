@@ -1,2 +1,9 @@
-package whatsApp.enums;public class Image {
+package whatsApp.enums;
+
+public enum Image {
+    My_PHOTO,
+    CAR,
+    PAINTING;
+
+
 }

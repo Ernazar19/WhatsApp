@@ -1,2 +1,4 @@
-package whatsApp.models;public class Message {
+package whatsApp.models;
+
+public class Message {
 }

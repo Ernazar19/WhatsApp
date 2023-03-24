@@ -1,2 +1,4 @@
-package whatsApp.enums;public class Gtnder {
+package whatsApp.enums;
+
+public enum Gender {
 }
